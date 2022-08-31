@@ -1,1 +1,1 @@
-This repository is about shell basics.
+repository on shell basics

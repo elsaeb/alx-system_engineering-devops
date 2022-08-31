@@ -1,1 +1,1 @@
-Script that shows absolute working path
+script that lists the contents of the directory
