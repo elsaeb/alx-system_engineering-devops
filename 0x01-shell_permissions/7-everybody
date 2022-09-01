@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo chmod 751 /tmp/h
+sudo chmod 751 hello
+
