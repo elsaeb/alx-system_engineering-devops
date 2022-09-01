@@ -1,1 +1,1 @@
-script 2 prints the current user
+script 2 prints member of groups
