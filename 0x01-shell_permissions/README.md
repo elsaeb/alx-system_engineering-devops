@@ -1,1 +1,1 @@
-script_7 changes file permission.
+Script_7 changes file permission.
