@@ -1,1 +1,1 @@
-sript 6 changes permission
+script 7 changes file permission
