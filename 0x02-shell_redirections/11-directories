@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -laR | egrep -c '^d'
+#!/bin/bas
+ls -laR */ | egrep -c '^d'
