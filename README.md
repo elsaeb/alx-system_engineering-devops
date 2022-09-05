@@ -1,1 +1,1 @@
-script 7
+prints new line after text.
