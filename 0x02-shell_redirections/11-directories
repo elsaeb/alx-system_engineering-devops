@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR */ | egrep -c '^d'
+find ./* -type d | wc -l
