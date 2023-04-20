@@ -1,5 +1,4 @@
-# puppet script
-package { 'puppet-lint':
-  ensure   => '2.1.1',
-  provider => 'gem',
-}
+exec { 'install_flask':
+  command  => 'install flask==2.1.0',
+  path => 'usr/bin'
+  }
